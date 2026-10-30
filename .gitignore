@@ -6,6 +6,8 @@ __pycache__/
 htmlcov/
 .pytest_cache/
 mlruns/
+mlartifacts/
+mlflow.db
 *.egg-info/
 dist/
 build/
